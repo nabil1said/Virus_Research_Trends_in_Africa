@@ -1,5 +1,5 @@
 
-# Analyse de données sur la dynamique des virus étudiés en Afrique avant et après le COVID-19
+# Dynamiques de recherche sur les virus en Afrique : une analyse pré- et post-COVID-19
 
 ---
 
@@ -75,4 +75,5 @@ Ce projet vise à analyser les tendances de la recherche scientifique sur les vi
   L’analyse montre que la production scientifique dans la zone Afrique a fortement augmenté après l’émergence du coronavirus (2020-2024), avec une croissance moyenne de 39,3 % et un pic en 2020. Cependant, en excluant les articles impliquant le SARS-COV-2, l’augmentation réelle n’est que de 8 %.
  Ces résultats mettent en évidence l’impact direct de la pandémie de COVID-19 sur les dynamiques de publication, révélant une réorientation massive vers le SARS-CoV-2, tandis que la recherche sur les autres virus a progressé de manière plus modeste mais régulière.
 En résumé, la pandémie a constitué un facteur déterminant dans l’évolution récente des publications scientifiques, mais l’augmentation globale reste beaucoup plus nuancée lorsqu’on isole les thématiques non liées au coronavirus.
+
 
